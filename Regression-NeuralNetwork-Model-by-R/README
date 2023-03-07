@@ -1,0 +1,10 @@
+# How to build ml model
+- Spilt data
+- Train model
+- Test model
+- Predict model
+
+# ML model in this project as below
+- Build Model linear Regression Model
+- Build Model Logistic Regression Model  
+- Neural Network Model
